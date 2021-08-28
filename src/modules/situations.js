@@ -23,20 +23,41 @@ const critical_rankers = [
 	"The 3rd rated wrestler",
 	"The 4th rated wrestler",
 	"The 5th rated wrestler",
-];
-const major_rankers = [
 	"The 6th rated wrestler",
 	"The 7th rated wrestler",
 	"The 8th rated wrestler",
+];
+const major_rankers = [
 	"The 9th rated wrestler",
 	"The 10th rated wrestler",
-];
-const minor_rankers = [
 	"The 11th rated wrestler",
 	"The 12th rated wrestler",
 	"The 13th rated wrestler",
 	"The 14th rated wrestler",
 	"The 15th rated wrestler",
+	"The 16th rated wrestler",
+	"The 17th rated wrestler",
+	"The 18th rated wrestler",
+];
+const minor_rankers = [
+	"The 19th rated wrestler",
+	"The 20th rated wrestler",
+	"The 21st rated wrestler",
+	"The 22nd rated wrestler",
+	"The 23rd rated wrestler",
+	"The 24th rated wrestler",
+	"The 25th rated wrestler",
+	"The 26th rated wrestler",
+	"The 27th rated wrestler",
+	"The 28th rated wrestler",
+	"The 29th rated wrestler",
+	"The 30th rated wrestler",
+	"The 31st rated wrestler",
+	"The 32nd rated wrestler",
+	"The 33rd rated wrestler",
+	"The 34th rated wrestler",
+	"The 35th rated wrestler",
+	"The 36th rated wrestler",
 ];
 const contenders = [
 	"Number 1 contender(s) to ",
